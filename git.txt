@@ -1,0 +1,26 @@
+Question 2 
+Les répertoires créés sont : /home/pltguest/Bureau/TP1/.git/
+
+Question 4 
+Aucun commit ajouté à la branche principale (master) 
+Aucun fichier fichier suivi car rien n'a encore été ajouté 
+
+Question 5 
+Aucun commit ajouté à la branche principale (master) 
+Un fichier ajouté et qui doit être validé 
+
+Question 7 
+aucune modification n'a été ajoutée à la validation
+
+Question 8
+Donne les information sur une modification, son auteur et la date à laquelle la modification a été effectuée 
+
+Question 9 
+Donne la différence entre l'ancienne version d'un fichier et la nouvelle 
+
+code token TP1 : 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
+
+Question 11
+On voit le fichier qui a été commit, qui l'a commit avec un message 
+
+
